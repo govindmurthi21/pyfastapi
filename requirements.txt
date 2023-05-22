@@ -1,0 +1,5 @@
+fastapi==0.73.0
+uvicorn==0.17.0
+boto3
+transformers
+tensorflow
