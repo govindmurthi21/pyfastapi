@@ -1,23 +1,9 @@
 id,message,spamnospam,insertdatetime,updatedatetime
-1,this is a sample,unknown,12/21/1990,null
-2,this is a sample,unknown,12/21/1990,null
-3,this is a sample,unknown,12/21/1990,null
-4,this is a sample,unknown,12/21/1990,null
-5,this is a sample,unknown,12/21/1990,null
-6,this is a sample,unknown,12/21/1990,null
-7,this is a sample,unknown,12/21/1990,null
-8,this is a sample,unknown,12/21/1990,null
-9,this is a sample,unknown,12/21/1990,null
-10,this is a sample,unknown,12/21/1990,null
-11,this is a sample,unknown,12/21/1990,null
-12,this is a sample,unknown,12/21/1990,null
-13,this is a sample,unknown,12/21/1990,null
-14,this is a sample,unknown,12/21/1990,null
-15,this is a sample,unknown,12/21/1990,null
-16,this is a sample2,unknown,12/21/1990,null
-17,This is a message,unknown,10/12/2990,null
-18,This is a message,unknown,21/05/2023,null
-19,This is a message and its amazing,unknown,21/05/2023,null
-20,This is a message,unknown,21/05/2023,null
-21,This is a new message,unknown,21/05/2023,null
-22,This will be sent to SQS ,unknown,21/05/2023,null
+1,this is a sample,Not Spam,12/21/1990,05/23/2023
+2,this will not be a spam,Not Spam,05/22/2023,05/23/2023
+3,this will not be a spam,Not Spam,05/22/2023,05/23/2023
+4,"Update_Now - Xmas Offer! Latest Motorola, SonyEricsson & Nokia & FREE Bluetooth! Double Mins & 1000 Txt on Orange. Call MobileUpd8 on 08000839402 or call2optout/F4Q=",Spam,05/22/2023,05/23/2023
+5,WINNER!! As a valued network customer you have been selected to receivea £900 prize reward! To claim call 09061701461. Claim code KL341. Valid 12 hours only.,Spam,05/23/2023,05/23/2023
+6,WINNER!! As a valued network customer you have been selected to receivea £900 prize reward! To claim call 09061701461. Claim code KL341. Valid 12 hours only.,Spam,05/23/2023,05/23/2023
+7,I am demoing this to daniel ,Not Spam,05/23/2023,05/23/2023
+8,Talk sexy!! Make new friends or fall in love in the worlds most discreet text dating service. Just text VIP to 83110 and see who you could meet.,Spam,05/23/2023,05/23/2023

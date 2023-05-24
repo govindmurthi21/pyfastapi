@@ -3,3 +3,5 @@ uvicorn==0.17.0
 boto3
 transformers
 tensorflow
+torch==2.0.0
+torchvision
