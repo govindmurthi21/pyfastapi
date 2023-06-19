@@ -1,9 +1,5 @@
 id,message,spamnospam,insertdatetime,updatedatetime
-1,this is a sample,Not Spam,12/21/1990,05/23/2023
-2,this will not be a spam,Not Spam,05/22/2023,05/23/2023
-3,this will not be a spam,Not Spam,05/22/2023,05/23/2023
-4,"Update_Now - Xmas Offer! Latest Motorola, SonyEricsson & Nokia & FREE Bluetooth! Double Mins & 1000 Txt on Orange. Call MobileUpd8 on 08000839402 or call2optout/F4Q=",Spam,05/22/2023,05/23/2023
-5,WINNER!! As a valued network customer you have been selected to receivea £900 prize reward! To claim call 09061701461. Claim code KL341. Valid 12 hours only.,Spam,05/23/2023,05/23/2023
-6,WINNER!! As a valued network customer you have been selected to receivea £900 prize reward! To claim call 09061701461. Claim code KL341. Valid 12 hours only.,Spam,05/23/2023,05/23/2023
-7,I am demoing this to daniel ,Not Spam,05/23/2023,05/23/2023
-8,Talk sexy!! Make new friends or fall in love in the worlds most discreet text dating service. Just text VIP to 83110 and see who you could meet.,Spam,05/23/2023,05/23/2023
+1,this is a sample,Not Spam,12/21/1990,05/24/2023
+2,This should not be a spam,Not Spam,05/24/2023,05/24/2023
+3,WINNER!! As a valued network customer you have been selected to receivea £900 prize reward! To claim call 09061701461. Claim code KL341. Valid 12 hours only.,Spam,05/24/2023,05/24/2023
+4,Rohit is awesome,Not Spam,05/24/2023,05/24/2023

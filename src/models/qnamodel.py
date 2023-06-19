@@ -3,12 +3,11 @@ from transformers import BertForQuestionAnswering, AutoTokenizer, pipeline
 class QnAModel:
     def __init__(self):
         context = (
-            """Black Knight (NYSE:BKI) is a leading provider of integrated software, data and analytics solutions that facilitate and automate many of the business processes across the homeownership life cycle. 
-            Black Knight is committed to being a premier business partner that clients rely on to achieve their strategic goals, realize greater success and better serve their customers by delivering best-in-class software, services and insights with a relentless commitment to excellence, innovation, integrity and leadership.
-            Its mission is to be the PREMIER PROVIDER of software, data and analytics, known for CLIENT FOCUS AND PRODUCT EXCELLENCE; and to deliver INNOVATIVE, seamlessly INTEGRATED solutions with URGENCY.
-        Anthony Jabbour is responsible for providing leadership and direction to the company’s management and Board of Directors.
-        Before being appointed Executive Chairman, Anthony served as Chairman and CEO of Black Knight, where he helped substantially increase organic growth, led the company to deliver numerous digital solutions and other innovative capabilities, and oversaw nine acquisitions to provide greater shareholder value and help transform the industries Black Knight serves.
-        Daniel Sudhindaran works at beeline and he is a director of product. He is also interested in cricket. 
+            """
+            Modern wealth management has changed and the legacy systems haven't kept up. There is more tech than ever but it's not solving your needs. We're here to help with Summit's AdvisorOS™ - built to replace last generation's portfolio management systems with a platform that unlocks efficiency, growth, and deeper relationships with clients.
+            Two decades ago I was fortunate enough to bring meaningful innovation to the wealth management space. At Summit, we seek to drive abundance for advisors and their clients to make a much bigger impact.
+            - Reed Colley, CEO & Co-founder
+            Unlock a deeper understanding of your client's needs and engagement through a modern, digital and mobile experience. We’ve designed Summit to humanize wealth management and help guide your clients from a scarcity to an abundance mindset by elevating what they care about most.
         """
         )
         model = BertForQuestionAnswering.from_pretrained('deepset/bert-base-cased-squad2')
