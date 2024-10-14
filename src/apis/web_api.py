@@ -191,7 +191,7 @@ async def predict_spam_not_spam(message: Message):
         message.spamOrNot = 'Spam'
     else:
         message.spamOrNot = 'Not Spam'
-    return await update_row(message)
+    return message
 
 @router.post('/predict/qna')
 async def predict_qna(qna: QnA):
